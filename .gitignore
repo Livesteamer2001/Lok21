@@ -1,0 +1,9 @@
+
+
+
+# Ignoriere temporäre Sounddateien
+*.wav
+*.mp4
+*.HDP
+*.H0
+*.mkv
